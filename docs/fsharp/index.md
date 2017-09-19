@@ -27,15 +27,15 @@ Wenn Sie noch wenig Erfahrung mit Programmierung haben, beginnen Sie mit dem Abs
 
 Wenn Sie sich lieber eine thematische Übersicht von F# und einigen der kennzeichnenden Funktionen ansehen möchten, gehen Sie unter [Einführung in F#](tour.md).
 
-## <a name="if-youre-new-to-f"></a>Wenn Sie noch nicht mit F vertraut sind# #
+## <a name="if-youre-new-to-f"></a>Wenn Sie noch nicht mit F# vertraut sind
 
 Wenn Sie programmieren können, jedoch noch nichts mit F gemacht haben, beginnen Sie mit der [Einführung in F#](tour.md), um eine Übersicht über die Sprache zu erhalten.
 
-Es wird auch empfohlen, die [Introduction to Functional Progamming (Einführung in die funktionale Programmierung)](introduction-to-functional-programming/index.md) durchzulaufen, um die Konzepte der funktionalen Programmierung zu lernen, die wichtig für die Arbeit mit F# sind.
+Es wird auch empfohlen, die [Einführung in die funktionale Programmierung](introduction-to-functional-programming/index.md) durchzulaufen, um die Konzepte der funktionalen Programmierung zu lernen, die wichtig für die Arbeit mit F# sind.
 
 In den [Tutorials](tutorials/index.md) erhalten Sie auch ausführliche Anleitungen für unterschiedliche Fähigkeitslevel und Funktionen der Sprache.
 
-## <a name="if-youre-experienced-with-f"></a>Wenn Sie bereits Erfahrung mit F# haben# #
+## <a name="if-youre-experienced-with-f"></a>Wenn Sie bereits Erfahrung mit F# haben
 
 Wenn Sie mit F# vertraut sind, finden Sie viel Interessantes in der [Sprachreferenz](language-reference/index.md), worin jeder Aspekt der Sprache gründlich dokumentiert ist und durch viele Codebeispiele wird.  Die [Referenz zur F#-Kernbibliothek](https://msdn.microsoft.com/visualfsharpdocs/conceptual/fsharp-core-library-reference) wird ebenso sehr interessant für Sie sein.
 
@@ -59,7 +59,7 @@ Um mehr zu erfahren und mitzumachen, gehen Sie unter [fsharp.org](http://fsharp.
 * [F# for Fun and Profit Gitbook (F# für Fun und Profit – Gitbook)](https://swlaschin.gitbooks.io/fsharpforfunandprofit/content/) 
 * [F# Programming Wikibook (F#-Programmierung – Wikibook)](https://en.wikibooks.org/wiki/F_Sharp_Programming)
 
-## <a name="video-learning-resources"></a>Videolernressourcen
+## <a name="video-learning-resources"></a>Videos
 
 * [Introduction to Programming with F# series on YouTube (Einführung in die Programmierung mit der F#-Reihe auf YouTube)](https://www.youtube.com/watch?v=Teak30_pXHk&list=PLEoMzSkcN8oNiJ67Hd7oRGgD1d4YBxYGC)
 * [Introduction to F# series on FSharpTV (Einführung in die F#-Reihe auf FSharpTV)](https://fsharp.tv/courses/fsharp-programming-intro/)
